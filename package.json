@@ -1,0 +1,36 @@
+{
+  "name": "create-strve",
+  "version": "1.0.0",
+  "description": "Strve.js project scaffolding tools.",
+  "main": "index.js",
+	"author": {
+		"name": "maomincoding",
+		"email": "17864296568@163.com",
+		"url": "https://www.maomin.club"
+	},
+  "keywords": [
+	"strve",
+    "strve.js",
+    "create-strve"
+	],
+  "bin": {
+		"create-strve": "./bin/index.js"
+	},
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/maomincoding/create-strve.git"
+	},
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+		"chalk": "^4.0.0",
+		"commander": "^5.0.0",
+		"fs-extra": "^9.0.0",
+		"inquirer": "^7.1.0"
+	},
+	"devDependencies": {},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions"
+	]
+}
