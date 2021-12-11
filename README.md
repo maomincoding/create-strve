@@ -1,16 +1,5 @@
-
-<p align="center">
-  <a href="https://github.com/maomincoding/create-strve" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://maomincoding.github.io/strvejs-doc/logo.png" alt="Strve logo">
-  </a>
-</p>
-<br/>
-<p align="center">
-  <a href="https://npmjs.com/package/create-strve"><img src="https://badgen.net/npm/v/create-strve" alt="npm package"></a>
-</p>
-<br/>
-
 # Create Strve
+<a href="https://npmjs.com/package/create-strve"><img src="https://badgen.net/npm/v/create-strve" alt="npm package"></a>
 
 Strve.js project scaffolding tools.
 
