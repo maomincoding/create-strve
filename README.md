@@ -46,7 +46,7 @@ Because `create-strve` is built with [Vite](https://vitejs.dev/), you can follow
 
 ## Documentation
 
-To learn more about Strve, check [its documentation](https://maomincoding.github.io/strvejs-doc/).
+To learn more about Strve, check [its documentation](https://maomincoding.github.io/strvejs-doc/tool/#create-strve).
 
 ## License
 
