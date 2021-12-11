@@ -1,5 +1,4 @@
 # Create Strve
-<a href="https://npmjs.com/package/create-strve"><img src="https://badgen.net/npm/v/create-strve" alt="npm package"></a>
 
 Strve.js project scaffolding tools.
 
